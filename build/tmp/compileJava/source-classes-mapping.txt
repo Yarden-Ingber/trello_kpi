@@ -1,2 +1,4 @@
+com/trelloKpi/trelloKpi/DatabaseConfig.java
+ com.trelloKpi.trelloKpi.DatabaseConfig
 com/trelloKpi/trelloKpi/TrelloKpiApplication.java
  com.trelloKpi.trelloKpi.TrelloKpiApplication
