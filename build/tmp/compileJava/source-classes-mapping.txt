@@ -1,3 +1,5 @@
+com/trelloKpi/trelloKpi/RestCalls.java
+ com.trelloKpi.trelloKpi.RestCalls
 com/trelloKpi/trelloKpi/DatabaseConfig.java
  com.trelloKpi.trelloKpi.DatabaseConfig
 com/trelloKpi/trelloKpi/TrelloKpiApplication.java
