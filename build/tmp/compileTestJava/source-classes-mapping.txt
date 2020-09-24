@@ -1,0 +1,2 @@
+com/trelloKpi/trelloKpi/TrelloKpiApplicationTests.java
+ com.trelloKpi.trelloKpi.TrelloKpiApplicationTests
